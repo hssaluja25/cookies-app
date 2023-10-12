@@ -4,7 +4,7 @@ This Flutter app showcases a simple user interface for a cookie shop. While it i
 
 ## Screenshots
 
-![Screenshot 1](flutter_01.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot 2](flutter_01.png)
+![Screenshot 1](flutter_01.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot 2](flutter_02.png)
 
 ## Getting Started
 
